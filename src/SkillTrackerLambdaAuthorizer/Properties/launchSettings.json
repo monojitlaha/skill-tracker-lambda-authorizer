@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Mock Test Lambda Tool": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\cogdotnet83\\.dotnet\\tools\\dotnet-lambda-test-tool-3.1.exe",
+      "commandLineArgs": "__port 5050",
+      "workingDirectory": "C:\\SkillTracker\\Cloud\\skill-tracker-lambda-authorizer\\src\\SkillTrackerLambdaAuthorizer\\bin\\Debug\\netcoreapp3.1"
+    }
+  }
+}
